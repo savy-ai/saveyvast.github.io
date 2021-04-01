@@ -1,0 +1,77 @@
+.list-group{
+  color: white;
+  padding:3% ;
+  margin: 0;
+  z-index: 100;
+}
+body{
+  background-color: gray;
+}
+.sis{
+  width: 100%;
+  margin: 0;
+  padding: 0;
+  position: absolute;
+  top: 0px;
+ z-index: -100;
+}
+a{
+  color: white;
+}
+.container{
+  width:90%;
+  padding: 2%;
+  color: white;
+  border: 1px solid silver;
+  border-radius: 3%;
+}
+.page-header{
+  font-size: 80px;
+  font-family: Montserrt-Bold.ttf;
+}
+
+.gr{
+  float:left ;
+  width: 50%;
+}
+
+.cit{
+  border-radius: 100%;
+  width: 40%;
+  padding-left: 0;
+}
+
+.foot{
+  width:80%;
+  padding: 2%;
+  color: white;
+  border: 0.5px solid silver;
+  border-radius: 0%;
+}
+.o{
+  position: absolute;
+  justify-content: centre;
+  top
+  
+}
+.v{
+ background-color: yellow;
+ border-radius: 100%;
+}
+
+.xl{
+  border: 1px solid silver;
+  
+}
+.ses{
+  width: 100%;
+  margin: 0;
+  padding: 0;
+  position: absolute;
+  top: -35px;
+  left: 25%;
+ z-index: 90;
+}
+
+
+
